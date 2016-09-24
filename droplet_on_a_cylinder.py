@@ -11,7 +11,6 @@ def compute_droplet_area(rs, rl, lc):
 rs = 5e-3
 rl0 = 5e-3
 l0 = 5e-3
-
 theta = 150.
 
 ## Begin
